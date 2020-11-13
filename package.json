@@ -1,0 +1,23 @@
+{
+  "name": "week10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajacobs99/unit-testing-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajacobs99/unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/ajacobs99/unit-testing-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
